@@ -1,0 +1,421 @@
+participant,pressed_key,item,target_filler,condition,image,accuracy
+d1c574,E,f09,filler,NA,frog,1
+d1c574,I,f04,filler,NA,sea,1
+d1c574,E,t04,target,object,t shirt,1
+d1c574,I,t11,target,substance,toilet paper pile,0
+d1c574,I,f03,filler,NA,lamp,1
+d1c574,I,t01,target,substance,rice,0
+d1c574,E,t15,target,object,pottery,1
+d1c574,E,f11,filler,NA,house,1
+d1c574,E,f05,filler,NA,mountain,0
+d1c574,E,t06,target,substance,clay,1
+d1c574,I,t13,target,object,crystal swan,0
+d1c574,I,f10,filler,NA,spatula,0
+d1c574,E,t07,target,object,tomato,1
+d1c574,E,t12,target,substance,ground meat,1
+d1c574,I,f07,filler,NA,crosswalk,0
+d1c574,E,t09,target,object,wooden bowl,1
+d1c574,I,f02,filler,NA,giraffe,1
+d1c574,E,t03,target,object,bracelet,1
+d1c574,I,t10,target,substance,chopped onion,0
+d1c574,I,f12,filler,NA,flower,0
+d1c574,E,t05,target,substance,yarn,1
+d1c574,E,t14,target,object,sandcastle,1
+d1c574,I,t02,target,substance,cement powder,0
+d1c574,I,f01,filler,NA,car,1
+d1c574,E,t08,target,object,key,1
+d1c574,E,t16,target,substance,lotion,1
+d1c574,E,f08,filler,NA,fire,1
+d1c574,I,f06,filler,NA,tree,1
+c45f5c,I,f09,filler,NA,frog,0
+c45f5c,E,f04,filler,NA,sea,0
+c45f5c,E,t04,target,substance,cotton ball,1
+c45f5c,E,t11,target,object,toilet paper,1
+c45f5c,I,f03,filler,NA,lamp,1
+c45f5c,E,t01,target,object,onigiri,1
+c45f5c,E,t15,target,substance,brown clay,1
+c45f5c,I,f11,filler,NA,house,0
+c45f5c,I,f05,filler,NA,mountain,1
+c45f5c,E,t06,target,object,vase,1
+c45f5c,E,t13,target,substance,crystal,1
+c45f5c,I,f10,filler,NA,spatula,0
+c45f5c,E,t07,target,substance,diced tomatoes,1
+c45f5c,E,t12,target,object,meatball,1
+c45f5c,E,f07,filler,NA,crosswalk,1
+c45f5c,E,t09,target,substance,wood,1
+c45f5c,I,f02,filler,NA,giraffe,1
+c45f5c,E,t03,target,substance,gold,1
+c45f5c,E,t10,target,object,onion,1
+c45f5c,I,f12,filler,NA,flower,0
+c45f5c,E,t05,target,object,yarn ball,1
+c45f5c,E,t14,target,substance,sand,1
+c45f5c,E,t02,target,object,cinder block,1
+c45f5c,I,f01,filler,NA,car,1
+c45f5c,E,t08,target,substance,metal,1
+c45f5c,E,t16,target,object,lotion bottle,1
+c45f5c,E,f08,filler,NA,fire,1
+c45f5c,I,f06,filler,NA,tree,1
+22775c,I,f09,filler,NA,frog,0
+22775c,E,f04,filler,NA,sea,0
+22775c,I,t04,target,object,t shirt,0
+22775c,I,t11,target,substance,toilet paper pile,0
+22775c,I,f03,filler,NA,lamp,1
+22775c,E,t01,target,substance,rice,1
+22775c,E,t15,target,object,pottery,1
+22775c,I,f11,filler,NA,house,0
+22775c,E,f05,filler,NA,mountain,0
+22775c,E,t06,target,substance,clay,1
+22775c,E,t13,target,object,crystal swan,1
+22775c,I,f10,filler,NA,spatula,0
+22775c,E,t07,target,object,tomato,1
+22775c,I,t12,target,substance,ground meat,0
+22775c,E,f07,filler,NA,crosswalk,1
+22775c,E,t09,target,object,wooden bowl,1
+22775c,I,f02,filler,NA,giraffe,1
+22775c,E,t03,target,object,bracelet,1
+22775c,E,t10,target,substance,chopped onion,1
+22775c,I,f12,filler,NA,flower,0
+22775c,E,t05,target,substance,yarn,1
+22775c,E,t14,target,object,sandcastle,1
+22775c,I,t02,target,substance,cement powder,0
+22775c,I,f01,filler,NA,car,1
+22775c,E,t08,target,object,key,1
+22775c,E,t16,target,substance,lotion,1
+22775c,I,f08,filler,NA,fire,0
+22775c,I,f06,filler,NA,tree,1
+32b5db,I,f09,filler,NA,frog,0
+32b5db,E,f04,filler,NA,sea,0
+32b5db,E,t04,target,substance,cotton ball,1
+32b5db,E,t11,target,object,toilet paper,1
+32b5db,I,f03,filler,NA,lamp,1
+32b5db,E,t01,target,object,onigiri,1
+32b5db,E,t15,target,substance,brown clay,1
+32b5db,I,f11,filler,NA,house,0
+32b5db,I,f05,filler,NA,mountain,1
+32b5db,E,t06,target,object,vase,1
+32b5db,E,t13,target,substance,crystal,1
+32b5db,I,f10,filler,NA,spatula,0
+32b5db,E,t07,target,substance,diced tomatoes,1
+32b5db,E,t12,target,object,meatball,1
+32b5db,E,f07,filler,NA,crosswalk,1
+32b5db,E,t09,target,substance,wood,1
+32b5db,I,f02,filler,NA,giraffe,1
+32b5db,E,t03,target,substance,gold,1
+32b5db,E,t10,target,object,onion,1
+32b5db,I,f12,filler,NA,flower,0
+32b5db,E,t05,target,object,yarn ball,1
+32b5db,E,t14,target,substance,sand,1
+32b5db,I,t02,target,object,cinder block,0
+32b5db,I,f01,filler,NA,car,1
+32b5db,E,t08,target,substance,metal,1
+32b5db,E,t16,target,object,lotion bottle,1
+32b5db,E,f08,filler,NA,fire,1
+32b5db,I,f06,filler,NA,tree,1
+15d825,I,f09,filler,NA,frog,0
+15d825,E,f04,filler,NA,sea,0
+15d825,I,t04,target,substance,cotton ball,0
+15d825,E,t11,target,object,toilet paper,1
+15d825,I,f03,filler,NA,lamp,1
+15d825,E,t01,target,object,onigiri,1
+15d825,E,t15,target,substance,brown clay,1
+15d825,I,f11,filler,NA,house,0
+15d825,I,f05,filler,NA,mountain,1
+15d825,E,t06,target,object,vase,1
+15d825,E,t13,target,substance,crystal,1
+15d825,I,f10,filler,NA,spatula,0
+15d825,E,t07,target,substance,diced tomatoes,1
+15d825,E,t12,target,object,meatball,1
+15d825,I,f07,filler,NA,crosswalk,0
+15d825,I,t09,target,substance,wood,0
+15d825,I,f02,filler,NA,giraffe,1
+15d825,I,t03,target,substance,gold,0
+15d825,E,t10,target,object,onion,1
+15d825,I,f12,filler,NA,flower,0
+15d825,E,t05,target,object,yarn ball,1
+15d825,E,t14,target,substance,sand,1
+15d825,E,t02,target,object,cinder block,1
+15d825,I,f01,filler,NA,car,1
+15d825,E,t08,target,substance,metal,1
+15d825,E,t16,target,object,lotion bottle,1
+15d825,I,f08,filler,NA,fire,0
+15d825,I,f06,filler,NA,tree,1
+560072,I,f09,filler,NA,frog,0
+560072,E,f04,filler,NA,sea,0
+560072,I,t04,target,object,t shirt,0
+560072,E,t11,target,substance,toilet paper pile,1
+560072,E,f03,filler,NA,lamp,0
+560072,E,t01,target,substance,rice,1
+560072,E,t15,target,object,pottery,1
+560072,E,f11,filler,NA,house,1
+560072,E,f05,filler,NA,mountain,0
+560072,E,t06,target,substance,clay,1
+560072,I,t13,target,object,crystal swan,0
+560072,E,f10,filler,NA,spatula,1
+560072,E,t07,target,object,tomato,1
+560072,E,t12,target,substance,ground meat,1
+560072,I,f07,filler,NA,crosswalk,0
+560072,E,t09,target,object,wooden bowl,1
+560072,E,f02,filler,NA,giraffe,0
+560072,E,t03,target,object,bracelet,1
+560072,E,t10,target,substance,chopped onion,1
+560072,E,f12,filler,NA,flower,1
+560072,I,t05,target,substance,yarn,0
+560072,E,t14,target,object,sandcastle,1
+560072,I,t02,target,substance,cement powder,0
+560072,E,f01,filler,NA,car,0
+560072,E,t08,target,object,key,1
+560072,I,t16,target,substance,lotion,0
+560072,E,f08,filler,NA,fire,1
+560072,E,f06,filler,NA,tree,0
+eec7f8,I,f09,filler,NA,frog,0
+eec7f8,I,f04,filler,NA,sea,1
+eec7f8,E,t04,target,substance,cotton ball,1
+eec7f8,E,t11,target,object,toilet paper,1
+eec7f8,I,f03,filler,NA,lamp,1
+eec7f8,E,t01,target,object,onigiri,1
+eec7f8,E,t15,target,substance,brown clay,1
+eec7f8,I,f11,filler,NA,house,0
+eec7f8,I,f05,filler,NA,mountain,1
+eec7f8,E,t06,target,object,vase,1
+eec7f8,E,t13,target,substance,crystal,1
+eec7f8,I,f10,filler,NA,spatula,0
+eec7f8,E,t07,target,substance,diced tomatoes,1
+eec7f8,E,t12,target,object,meatball,1
+eec7f8,E,f07,filler,NA,crosswalk,1
+eec7f8,E,t09,target,substance,wood,1
+eec7f8,I,f02,filler,NA,giraffe,1
+eec7f8,I,t03,target,substance,gold,0
+eec7f8,E,t10,target,object,onion,1
+eec7f8,I,f12,filler,NA,flower,0
+eec7f8,E,t05,target,object,yarn ball,1
+eec7f8,E,t14,target,substance,sand,1
+eec7f8,E,t02,target,object,cinder block,1
+eec7f8,I,f01,filler,NA,car,1
+eec7f8,E,t08,target,substance,metal,1
+eec7f8,E,t16,target,object,lotion bottle,1
+eec7f8,I,f08,filler,NA,fire,0
+eec7f8,I,f06,filler,NA,tree,1
+1e5981,E,f09,filler,NA,frog,1
+1e5981,E,f04,filler,NA,sea,0
+1e5981,I,t04,target,substance,cotton ball,0
+1e5981,E,t11,target,object,toilet paper,1
+1e5981,I,f03,filler,NA,lamp,1
+1e5981,E,t01,target,object,onigiri,1
+1e5981,I,t15,target,substance,brown clay,0
+1e5981,I,f11,filler,NA,house,0
+1e5981,I,f05,filler,NA,mountain,1
+1e5981,E,t06,target,object,vase,1
+1e5981,I,t13,target,substance,crystal,0
+1e5981,I,f10,filler,NA,spatula,0
+1e5981,E,t07,target,substance,diced tomatoes,1
+1e5981,E,t12,target,object,meatball,1
+1e5981,I,f07,filler,NA,crosswalk,0
+1e5981,I,t09,target,substance,wood,0
+1e5981,I,f02,filler,NA,giraffe,1
+1e5981,I,t03,target,substance,gold,0
+1e5981,E,t10,target,object,onion,1
+1e5981,I,f12,filler,NA,flower,0
+1e5981,E,t05,target,object,yarn ball,1
+1e5981,E,t14,target,substance,sand,1
+1e5981,E,t02,target,object,cinder block,1
+1e5981,I,f01,filler,NA,car,1
+1e5981,E,t08,target,substance,metal,1
+1e5981,E,t16,target,object,lotion bottle,1
+1e5981,E,f08,filler,NA,fire,1
+1e5981,I,f06,filler,NA,tree,1
+217fc1,I,f09,filler,NA,frog,0
+217fc1,E,f04,filler,NA,sea,0
+217fc1,E,t04,target,object,t shirt,1
+217fc1,I,t11,target,substance,toilet paper pile,0
+217fc1,I,f03,filler,NA,lamp,1
+217fc1,E,t01,target,substance,rice,1
+217fc1,E,t15,target,object,pottery,1
+217fc1,I,f11,filler,NA,house,0
+217fc1,E,f05,filler,NA,mountain,0
+217fc1,E,t06,target,substance,clay,1
+217fc1,E,t13,target,object,crystal swan,1
+217fc1,I,f10,filler,NA,spatula,0
+217fc1,E,t07,target,object,tomato,1
+217fc1,I,t12,target,substance,ground meat,0
+217fc1,I,f07,filler,NA,crosswalk,0
+217fc1,E,t09,target,object,wooden bowl,1
+217fc1,I,f02,filler,NA,giraffe,1
+217fc1,E,t03,target,object,bracelet,1
+217fc1,E,t10,target,substance,chopped onion,1
+217fc1,I,f12,filler,NA,flower,0
+217fc1,E,t05,target,substance,yarn,1
+217fc1,E,t14,target,object,sandcastle,1
+217fc1,I,t02,target,substance,cement powder,0
+217fc1,I,f01,filler,NA,car,1
+217fc1,E,t08,target,object,key,1
+217fc1,E,t16,target,substance,lotion,1
+217fc1,I,f08,filler,NA,fire,0
+217fc1,I,f06,filler,NA,tree,1
+0a6af4,I,f09,filler,NA,frog,0
+0a6af4,I,f04,filler,NA,sea,1
+0a6af4,E,t04,target,object,t shirt,1
+0a6af4,I,t11,target,substance,toilet paper pile,0
+0a6af4,E,f03,filler,NA,lamp,0
+0a6af4,I,t01,target,substance,rice,0
+0a6af4,E,t15,target,object,pottery,1
+0a6af4,E,f11,filler,NA,house,1
+0a6af4,E,f05,filler,NA,mountain,0
+0a6af4,E,t06,target,substance,clay,1
+0a6af4,E,t13,target,object,crystal swan,1
+0a6af4,E,f10,filler,NA,spatula,1
+0a6af4,E,t07,target,object,tomato,1
+0a6af4,E,t12,target,substance,ground meat,1
+0a6af4,I,f07,filler,NA,crosswalk,0
+0a6af4,E,t09,target,object,wooden bowl,1
+0a6af4,E,f02,filler,NA,giraffe,0
+0a6af4,E,t03,target,object,bracelet,1
+0a6af4,E,t10,target,substance,chopped onion,1
+0a6af4,E,f12,filler,NA,flower,1
+0a6af4,E,t05,target,substance,yarn,1
+0a6af4,E,t14,target,object,sandcastle,1
+0a6af4,E,t02,target,substance,cement powder,1
+0a6af4,I,f01,filler,NA,car,1
+0a6af4,E,t08,target,object,key,1
+0a6af4,E,t16,target,substance,lotion,1
+0a6af4,E,f08,filler,NA,fire,1
+0a6af4,E,f06,filler,NA,tree,0
+f77942,E,f09,filler,NA,frog,1
+f77942,E,f04,filler,NA,sea,0
+f77942,E,t04,target,substance,cotton ball,1
+f77942,E,t11,target,object,toilet paper,1
+f77942,I,f03,filler,NA,lamp,1
+f77942,E,t01,target,object,onigiri,1
+f77942,I,t15,target,substance,brown clay,0
+f77942,I,f11,filler,NA,house,0
+f77942,I,f05,filler,NA,mountain,1
+f77942,E,t06,target,object,vase,1
+f77942,I,t13,target,substance,crystal,0
+f77942,I,f10,filler,NA,spatula,0
+f77942,E,t07,target,substance,diced tomatoes,1
+f77942,E,t12,target,object,meatball,1
+f77942,I,f07,filler,NA,crosswalk,0
+f77942,I,t09,target,substance,wood,0
+f77942,I,f02,filler,NA,giraffe,1
+f77942,E,t03,target,substance,gold,1
+f77942,E,t10,target,object,onion,1
+f77942,E,f12,filler,NA,flower,1
+f77942,E,t05,target,object,yarn ball,1
+f77942,E,t14,target,substance,sand,1
+f77942,E,t02,target,object,cinder block,1
+f77942,I,f01,filler,NA,car,1
+f77942,E,t08,target,substance,metal,1
+f77942,E,t16,target,object,lotion bottle,1
+f77942,E,f08,filler,NA,fire,1
+f77942,I,f06,filler,NA,tree,1
+a92f0b,E,f09,filler,NA,frog,1
+a92f0b,E,f04,filler,NA,sea,0
+a92f0b,E,t04,target,object,t shirt,1
+a92f0b,I,t11,target,substance,toilet paper pile,0
+a92f0b,E,f03,filler,NA,lamp,0
+a92f0b,I,t01,target,substance,rice,0
+a92f0b,E,t15,target,object,pottery,1
+a92f0b,I,f11,filler,NA,house,0
+a92f0b,E,f05,filler,NA,mountain,0
+a92f0b,E,t06,target,substance,clay,1
+a92f0b,E,t13,target,object,crystal swan,1
+a92f0b,I,f10,filler,NA,spatula,0
+a92f0b,E,t07,target,object,tomato,1
+a92f0b,I,t12,target,substance,ground meat,0
+a92f0b,I,f07,filler,NA,crosswalk,0
+a92f0b,E,t09,target,object,wooden bowl,1
+a92f0b,I,f02,filler,NA,giraffe,1
+a92f0b,E,t03,target,object,bracelet,1
+a92f0b,E,t10,target,substance,chopped onion,1
+a92f0b,I,f12,filler,NA,flower,0
+a92f0b,I,t05,target,substance,yarn,0
+a92f0b,E,t14,target,object,sandcastle,1
+a92f0b,I,t02,target,substance,cement powder,0
+a92f0b,I,f01,filler,NA,car,1
+a92f0b,E,t08,target,object,key,1
+a92f0b,E,t16,target,substance,lotion,1
+a92f0b,I,f08,filler,NA,fire,0
+a92f0b,I,f06,filler,NA,tree,1
+1c0ff5,I,f09,filler,NA,frog,0
+1c0ff5,E,f04,filler,NA,sea,0
+1c0ff5,I,t04,target,substance,cotton ball,0
+1c0ff5,E,t11,target,object,toilet paper,1
+1c0ff5,I,f03,filler,NA,lamp,1
+1c0ff5,E,t01,target,object,onigiri,1
+1c0ff5,I,t15,target,substance,brown clay,0
+1c0ff5,E,f11,filler,NA,house,1
+1c0ff5,E,f05,filler,NA,mountain,0
+1c0ff5,I,t06,target,object,vase,0
+1c0ff5,E,t13,target,substance,crystal,1
+1c0ff5,I,f10,filler,NA,spatula,0
+1c0ff5,I,t07,target,substance,diced tomatoes,0
+1c0ff5,E,t12,target,object,meatball,1
+1c0ff5,E,f07,filler,NA,crosswalk,1
+1c0ff5,E,t09,target,substance,wood,1
+1c0ff5,I,f02,filler,NA,giraffe,1
+1c0ff5,E,t03,target,substance,gold,1
+1c0ff5,E,t10,target,object,onion,1
+1c0ff5,I,f12,filler,NA,flower,0
+1c0ff5,E,t05,target,object,yarn ball,1
+1c0ff5,I,t14,target,substance,sand,0
+1c0ff5,E,t02,target,object,cinder block,1
+1c0ff5,I,f01,filler,NA,car,1
+1c0ff5,E,t08,target,substance,metal,1
+1c0ff5,E,t16,target,object,lotion bottle,1
+1c0ff5,E,f08,filler,NA,fire,1
+1c0ff5,E,f06,filler,NA,tree,0
+9688ac,E,f09,filler,NA,frog,1
+9688ac,E,f04,filler,NA,sea,0
+9688ac,I,t04,target,substance,cotton ball,0
+9688ac,E,t11,target,object,toilet paper,1
+9688ac,I,f03,filler,NA,lamp,1
+9688ac,E,t01,target,object,onigiri,1
+9688ac,I,t15,target,substance,brown clay,0
+9688ac,I,f11,filler,NA,house,0
+9688ac,E,f05,filler,NA,mountain,0
+9688ac,E,t06,target,object,vase,1
+9688ac,I,t13,target,substance,crystal,0
+9688ac,I,f10,filler,NA,spatula,0
+9688ac,I,t07,target,substance,diced tomatoes,0
+9688ac,E,t12,target,object,meatball,1
+9688ac,I,f07,filler,NA,crosswalk,0
+9688ac,I,t09,target,substance,wood,0
+9688ac,I,f02,filler,NA,giraffe,1
+9688ac,I,t03,target,substance,gold,0
+9688ac,E,t10,target,object,onion,1
+9688ac,I,f12,filler,NA,flower,0
+9688ac,E,t05,target,object,yarn ball,1
+9688ac,I,t14,target,substance,sand,0
+9688ac,E,t02,target,object,cinder block,1
+9688ac,I,f01,filler,NA,car,1
+9688ac,I,t08,target,substance,metal,0
+9688ac,E,t16,target,object,lotion bottle,1
+9688ac,I,f08,filler,NA,fire,0
+9688ac,I,f06,filler,NA,tree,1
+1b0a40,I,f09,filler,NA,frog,0
+1b0a40,I,f04,filler,NA,sea,1
+1b0a40,E,t04,target,object,t shirt,1
+1b0a40,I,t11,target,substance,toilet paper pile,0
+1b0a40,I,f03,filler,NA,lamp,1
+1b0a40,I,t01,target,substance,rice,0
+1b0a40,E,t15,target,object,pottery,1
+1b0a40,E,f11,filler,NA,house,1
+1b0a40,E,f05,filler,NA,mountain,0
+1b0a40,I,t06,target,substance,clay,0
+1b0a40,E,t13,target,object,crystal swan,1
+1b0a40,I,f10,filler,NA,spatula,0
+1b0a40,E,t07,target,object,tomato,1
+1b0a40,E,t12,target,substance,ground meat,1
+1b0a40,E,f07,filler,NA,crosswalk,1
+1b0a40,E,t09,target,object,wooden bowl,1
+1b0a40,I,f02,filler,NA,giraffe,1
+1b0a40,I,t03,target,object,bracelet,0
+1b0a40,E,t10,target,substance,chopped onion,1
+1b0a40,I,f12,filler,NA,flower,0
+1b0a40,E,t05,target,substance,yarn,1
+1b0a40,E,t14,target,object,sandcastle,1
+1b0a40,E,t02,target,substance,cement powder,1
+1b0a40,I,f01,filler,NA,car,1
+1b0a40,E,t08,target,object,key,1
+1b0a40,E,t16,target,substance,lotion,1
+1b0a40,I,f08,filler,NA,fire,0
+1b0a40,I,f06,filler,NA,tree,1
